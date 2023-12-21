@@ -7,8 +7,8 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ### Links
 
-- Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here]
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-single-price-grid-using-flexbox-and-grid-hARPNJw6wx]
+- Live Site URL: [https://belkysupreme22.github.io/single-price-grid-component.io/]
 
 
 ### Built with
